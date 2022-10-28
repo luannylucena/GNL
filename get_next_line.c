@@ -6,7 +6,7 @@
 /*   By: lmedeiro <lmedeiro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/27 17:12:43 by lmedeiro          #+#    #+#             */
-/*   Updated: 2022/10/27 18:09:32 by lmedeiro         ###   ########.fr       */
+/*   Updated: 2022/10/28 15:46:45 by lmedeiro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -112,6 +112,8 @@ char	*get_next_line(int fd)
 	return (line);
 }
 
+
+/*
 int main()
 {
     int fd;
@@ -129,3 +131,4 @@ int main()
     close(fd);
     return (0);
 }
+*/
